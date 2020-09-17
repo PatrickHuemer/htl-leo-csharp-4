@@ -33,8 +33,8 @@ You can choose in which environment you would like to do your demo. *Visual Stud
 | Interfaces                                                  |         |
 | Type casting and type conversion                            |         |
 | Writing to and reading from the console                     |         |
-| Type testing (`is` and `as`)                                | Maximilian Pineker   |
-| Access modifiers (e.g. `private`, `public`, etc.)           |         |
+| Type testing (`is` and `as`)                                |         |
+| Access modifiers (e.g. `private`, `public`, etc.)           | Patrick Huemer        |
 | Namespaces                                                  |         |
 | Functions (incl. `static` and local functions)              |         |
 | String constants (incl. interpolation and verbatim strings) |         |
@@ -44,7 +44,7 @@ You can choose in which environment you would like to do your demo. *Visual Stud
 
 | Topic                                                  | Student |
 | ------------------------------------------------------ | ------- |
-| `struct` vs. `class` (value types vs. reference types) |         |
+| `struct` vs. `class` (value types vs. reference types) | Kowatschek Samuel        |
 | Constructors and finalizers                            |         |
 | Tuples                                                 |         |
 | The type `dynamic`                                     |         |
